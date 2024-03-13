@@ -1,0 +1,1502 @@
+"Article title","Current Importance","Current article quality","3D-SIG","Bio-Ontologies","BIOINFO-CORE","BioVis","BOSC","CAMDA","COMP-MS","Education","EvolCompGen","Function","HiTSeq","IRNA","JPI","Microbiome","MLCSB","NetBio","RegSys","SysMod","Text Mining","TransMed","VarI"
+"100,000 Genomes Project","Low","Start",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"1000 Genomes Project","Low","Start",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"10x Genomics","Mid","C",0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0
+"23andMe","Low","C",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1
+"2R hypothesis","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"3D-Jury","Low","Stub",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"3did","Low","Stub",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"454 Life Sciences","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"ABCD Schema","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ABCdb","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"ABI Solid Sequencing","Low","Start",0,0,1,0,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0
+"Accession number (bioinformatics)","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+"ACE (genomic file format)","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"AceDB","Low","Stub",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+"ACLAME","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Acta Biotheoretica","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Activity-driven model","NA","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"Adaptive sampling","Low","Start",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Affymetrix GeneChip Operating Software","NA","NA",0,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+"African Society for Bioinformatics and Computational Biology","Mid","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"AgBase","Low","Stub",0,1,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Alan Hodgkin","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Alex Bateman","Low","Start",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Alfonso Valencia","Mid","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+"Algae DNA barcoding","Low","Start",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Align-m","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Alignment-free sequence analysis","Mid","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"All of Us (initiative)","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"Allele frequency net database","Low","Stub",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"AlleleID","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Allen Brain Atlas","Mid","C",0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+"AlphaFold","High","C",1,0,0,0,1,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0
+"Alston Scott Householder","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Altenberg Workshops in Theoretical Biology","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Alternative Splicing and Transcript Diversity database","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Alternative Splicing Annotation Project","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1
+"Alzheimer's Disease Neuroimaging Initiative","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"AMAP","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"AMBER","Mid","C",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Amino acid replacement","High","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"AmoebaDB","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0
+"Amos Bairoch","Low","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Analysis of molecular variance","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Ancestral reconstruction","Low","B",0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0
+"Ancient protein","Low","Stub",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Anders Krogh","Mid","Start",0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,1,1,0,0,0
+"Andrew Huxley","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Andrew Rambaut","Low","Stub",0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+"Anduril (workflow engine)","Low","B",0,0,1,1,1,0,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0
+"ANGIS","Low","Start",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Angus Silver","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Animal Diversity Web","Mid","C",0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Animal Genome Size Database","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"AnimalTFDB","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Anna Tramontano","Low","Start",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Anne E. Carpenter","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"ANOVA–simultaneous component analysis","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Antoine Danchin","Low","C",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0
+"AntWeb","Low","Stub",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Apache Taverna","Low","C",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Approximate Bayesian computation","Low","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"ArachnoServer","Low","Stub",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ARB Project","Low","Stub",0,0,0,0,1,0,0,0,1,1,1,1,0,0,1,0,1,0,0,0,0
+"Archaeopteryx (evolutionary tree visualization and analysis)","Low","Stub",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ARDB","Low","Stub",0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+"AREsite","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"ARKive","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Arlequin (software)","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"ArrayTrack","Low","Start",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Artade","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Arthur M. Lesk","Low","C",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Arthur Winfree","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"ASD (database)","Low","Stub",1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Asian Young Researchers Conference on Computational and Omics Biology","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"AstridBio","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+"ATAC-seq","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Atlas of Living Australia","Low","Start",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Atlas of UTR Regulatory Activity","Low","Stub",0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,0
+"Attack rate","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"ATUM","Low","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Australia Bioinformatics Resource","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Autism Genetic Resource Exchange","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"AutoDock","Mid","Start",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Automated species identification","Low","Start",0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Autophagy database","Low","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Aviv Regev","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1
+"Avogadro (software)","Low","Stub",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Backbone-dependent rotamer library","Low","B",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"BacMet","Low","Stub",0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+"Bak–Sneppen model","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"BALL","Low","Start",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Barcode of Life Data System","Low","Stub",0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Barry Smith (ontologist)","Low","Start",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Basel Computational Biology Conference","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Batch effect","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Baum–Welch algorithm","Mid","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Bayesian inference in phylogeny","High","C",0,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"Beacon designer","Low","Stub",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Beebase","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bellerophon program","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+"Ben Langmead","Low","Start",0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+"Benjamin Franklin Award (Bioinformatics)","Low","Start",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bernard Moret","Mid","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0
+"Bernd Sturmfels","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Bernhard Palsson","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+"Beta-Lactamase Database (BLAD)","Low","Stub",0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+"Beta-Lactamase Database (BLDB)","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Bette Korber","Low","GA",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+"BGMUT","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"Biclustering","Mid","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Binary Alignment Map","Mid","Stub",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"BindingDB","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Binning (metagenomics)","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Bio2RDF","Low","Stub",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Biobank","High","C",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"BioCatalogue","Low","Start",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Biochemical cascade","Mid","C",0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,0,0
+"Biochemical systems theory","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+"Biochip","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Bioclipse","Low","Stub",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Biocomplexity Institute of Virginia Tech","Low","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bioconductor","Mid","C",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"BioCreative","Low","Stub",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Biocuration","Mid","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BioCyc database collection","Low","Stub",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Biodiversity informatics","Mid","C",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"BioGRID","Low","Start",0,1,0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+"Bioimage informatics","Mid","C",0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Bioinformatic Harvester","Low","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Bioinformatics","Top","C",1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1
+"Bioinformatics (journal)","High","Start",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bioinformatics Open Source Conference","Mid","Stub",0,0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Bioinformatics Resource Centers","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Bioinformatics workflow management system","Low","C",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bioinformatics workflow management systems","Mid","Start",0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"BioJava","High","Start",1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"BioLinux","Low","Start",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Biological computing","Mid","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Biological data visualization","Mid","Start",1,1,0,1,0,0,0,1,1,1,0,1,0,1,0,1,1,1,0,0,0
+"Biological database","High","Start",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Biological network","High","Start",0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0
+"Biological network inference","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+"Biological systems engineering","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"BioMart","Low","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Biomax Informatics","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Biomedical Computation Review","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Biomedical text mining","High","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"BioMOBY","Mid","Start",0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BioModels","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"Biomolecular Object Network Databank","Low","B",1,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Bionumbers","Low","Start",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0
+"BioNumerics","Low","Start",0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+"BioPAX","Mid","Start",0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0
+"BioPerl","High","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BioPHP","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Biopython","High","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"BioRuby","Mid","C",1,0,0,1,0,0,0,0,1,1,1,0,0,0,1,0,0,1,1,1,1
+"BIOSCI","Low","Stub",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BioSD","Low","B",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"BioSearch","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Biosimulation","Mid","Start",0,0,1,1,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0
+"Biositemap","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"BioSLAX","Low","Start",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Biostatistics","Top","B",0,0,0,0,0,1,0,1,1,0,0,0,0,1,1,1,1,1,0,1,0
+"BioUML","Low","Start",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"BISC (database)","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Biskit","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BitterDB","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"BLAST (biotechnology)","Top","C",0,0,0,0,1,0,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+"Blast2GO","Low","Stub",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"BLAT (bioinformatics)","Low","B",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BLOSUM","High","C",0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1
+"BMC Bioinformatics","Mid","C",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BMC Systems Biology","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0
+"Bob Waterston","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Bonnie Berger","Low","Start",0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0
+"Boolean network","Mid","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"BOSS (molecular mechanics)","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Bovine genome database","Low","Stub",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Bowtie (sequence analysis)","Mid","Start",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Brain mapping","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+"Breath gas analysis","Low","B",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+"BRENDA","Mid","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"BRENDA tissue ontology","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Brian Goodwin","Low","Start",0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0
+"Briefings in Bioinformatics","Low","Start",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Brix (database)","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Broad Institute","Low","Start",0,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,1
+"Bruce Donald","Low","Start",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Burkhard Rost","Mid","Start",1,0,0,0,1,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0
+"Burrows–Wheeler transform","Mid","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"BYKdb","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"C. H. Waddington","Low","C",0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0
+"CaBIG","Low","C",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Cable theory","Mid","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"CADgene","Low","Stub",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CAFASP","Low","Stub",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"CaGrid","Low","Start",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Canadian Bioinformatics Workshops","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cancer Genome Project","Low","C",0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1
+"Cancer systems biology","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"CancerResource","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Canto (gene curation tool)","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Carl Bergstrom","Low","Stub",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+"Carlos Martínez Alonso","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+"Carole Goble","Low","C",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CaSNP","Low","Stub",0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,1
+"CASP","Mid","C",1,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0
+"Catalogue of Life","Low","C",0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"CATH database","Mid","Start",1,1,0,0,1,1,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0
+"Cathy Tie","Low","Start",0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1
+"CAZy","Mid","Start",0,1,0,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"CCP4 (file format)","Low","Stub",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Celera Corporation","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Cell-based models","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"CellML","High","Start",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Cellular automaton","Low","B",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Cellular model","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Center for Applied Genomics","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Center for Molecular and Biomolecular Informatics","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Centre for DNA Fingerprinting and Diagnostics","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0
+"Centre for Genomic Pathogen Surveillance","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+"Centre for Plant Integrative Biology","Low","Start",0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Centre Nacional d'Anàlisi Genòmica","Low","Stub",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+"Cervical cancer gene database","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CHARMM","Mid","B",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"CharProtDB","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"ChEBI","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ChEMBL","Mid","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+"Chemical database","Mid","Start",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+"Chemical graph generator","Mid","B",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Chemical library","Low","Start",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"Chemistry Development Kit","Low","Start",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ChemProt","Low","Stub",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"CheShift","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ChimerDB","Low","Stub",0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0
+"Chip description file","Low","Start",0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+"ChIP sequencing","Mid","C",1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0
+"ChIP-on-chip","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Chou–Fasman method","Mid","B",1,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+"Chris Ponting","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Chris Sander (scientist)","Mid","Start",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Christina Kendziorski","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Christine Orengo","Low","Start",1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Christoph Bock","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+"Christopher Burge","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0
+"Chromosome (genetic algorithm)","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Chromosome conformation capture","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Ciliate MDS/IES database","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ciona intestinalis protein database","Low","Stub",0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Circular permutation in proteins","Low","GA",1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Clade","Mid","C",0,0,0,1,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+"Cladistics","Mid","C",0,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Claus O. Wilke","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"CLC bio","Low","Start",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"CLIP-Seq","Mid","Start",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"CLIPZ","Low","Stub",0,0,1,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+"Clone manager","Low","Stub",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Clustal","Mid","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Co-occurrence network","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Codon Adaptation Index","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"CodonCode Aligner","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Cofactor Genomics","Low","Start",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Colocalization Benchmark Source","Low","Start",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"COMBINE","Mid","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0
+"Combined DNA Index System","Low","GA",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Combrex","Low","C",0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+"Community Cyberinfrastructure for Advanced Microbial Ecology Research and Analysis","Low","Start",0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Community matrix","Low","Stub",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Comparative genomics","Top","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Comparative Toxicogenomics Database","Low","Start",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+"Comparison of DNA melting prediction software","Low","List",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Comparison of nucleic acid simulation software","Mid","List",1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Compartmental models in epidemiology","Mid","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Compendium of protein lysine acetylation","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Complex systems biology","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Comprehensive Antibiotic Resistance Database","Low","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Computational biology","Top","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Computational epigenetics","Mid","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0
+"Computational genomics","Mid","Start",0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,0
+"Computational immunology","Mid","B",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"Computational modeling of Ischemic stroke","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+"Computational neuroscience","Top","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0
+"Computational phylogenetics","High","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"Computational Resource for Drug Discovery","Low","Start",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Computomics","Low","Start",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Conference on Semantics in Healthcare and Life Sciences","Low","Stub",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Conformational dynamics data bank","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Conformational ensembles","Low","C",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ConoServer","Low","Stub",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Consed","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Consensus CDS Project","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Consensus sequence","High","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"ConsensusPathDB","Low","Start",0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+"Conservative replacement","Low","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+"Conserved Domain Database","Low","Start",0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+"Conserved non-coding sequence","Mid","C",0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+"Conserved sequence","High","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Contact order","Low","Start",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Contig","High","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Convergent Functional Genomics","Low","Stub",0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,1,0,0,0,1,0
+"Cooperative binding","Mid","B",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Coot (software)","Low","Start",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"COPASI","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"COSMIC cancer database","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"Covarion","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"CRAM (file format)","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"CRISPR","Top","B",0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,0
+"Cristen Willer","Low","C",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1
+"Critical Assessment of Function Annotation","Low","Start",0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Critical Assessment of Prediction of Interactions","Mid","Stub",1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cross-species transmission","Low","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Crossover (genetic algorithm)","Low","B",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0
+"Crystallography Open Database","Low","Stub",1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CS-BLAST","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Curtis Huttenhower","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0
+"CUT&RUN sequencing","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"CUT&Tag sequencing","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"CYANA (software)","Low","Stub",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Cyberneticist","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Cyrus Chothia","Low","Start",1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0
+"Cytoscape","High","B",0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,1,1,1,0,0,0
+"D. Lansing Taylor","Low","Start",1,0,1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+"D'Arcy Wentworth Thompson","Mid","GA",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Dan Gusfield","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Dana Pe'er","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,0,0,1
+"DAnCER (database)","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Daniel Gillespie","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Daphne Koller","Low","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0
+"Darwin Core","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Darwin Core Archive","Low","Start",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Data curation","Mid","Start",0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Data wrangling","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Database (journal)","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Database for bacterial group II introns","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+"Database of Interacting Proteins","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Database of Molecular Motions","Low","C",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Database of protein conformational diversity","Low","Stub",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"DAVID","Mid","Start",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"David Baker (biochemist)","Low","Start",1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+"David Botstein","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0
+"David Goodsell","Low","C",1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"David Haussler","Low","C",0,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,0,1,0
+"David J. Lipman","Low","Start",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"David Sankoff","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"David States","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DBASS3/5","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"DbCRID","Low","Stub",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+"DbDNV","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"DbSNP","Mid","B",0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1
+"DBTSS","Low","Stub",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+"De novo protein structure prediction","High","Start",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+"De novo sequence assemblers","Low","Start",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+"De novo transcriptome assembly","Mid","C",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Deanna M. Church","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"Death Domain database","Low","Stub",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0
+"Debian-Med","NA","NA",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Debora Marks","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+"DECIPHER","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"DeCODE genetics","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Dehaene–Changeux model","Low","Start",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"DeLano Award for Computational Biosciences","Low","Start",1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DeMix","Low","Start",0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0
+"Demographic and Health Surveys","Low","B",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dendroscope","Low","Stub",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Denis Noble","Low","Start",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0
+"Dennis Bray","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"Department of Defense Serum Repository","Low","B",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Desmond G. Higgins","Low","Start",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+"DIALIGN-T","Low","Stub",1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"DIALIGN-TX","Low","Start",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"DictyBase","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Digital organism","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Digital phenotyping","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"DIMA (database)","Low","Stub",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DiProDB","Low","Stub",1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Direct coupling analysis","Low","C",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Discovering Dengue Drugs – Together","Low","Start",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Diseases Database","Mid","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+"DisProt","Low","Start",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Distance matrix","High","Start",1,0,0,0,0,1,0,0,1,0,1,0,0,1,1,1,1,1,0,0,0
+"Distributed Annotation System/Clients","Low","Start",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"DNA annotation","Low","Start",1,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"DNA barcoding","High","B",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"DNA barcoding in diet assessment","Low","Start",0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+"DNA binding site","Mid","C",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+"DNA Data Bank of Japan","Low","Start",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"DNA database","Mid","Start",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"DNA microarray","Top","B",0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,0,0
+"DNA sequencer","Low","Start",0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"DNA sequencing","High","C",1,0,0,0,0,0,0,0,1,1,1,1,0,1,1,0,1,1,0,0,1
+"DNA sequencing theory","High","B",0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+"DNASTAR","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"DOCK","Low","Stub",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Docking (molecular)","High","B",1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,0,1,0,1,0
+"Domine Database","Low","Stub",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Dot plot (bioinformatics)","Mid","Start",0,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Douglas Kell","Low","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+"DPVweb","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"DroID","Low","Stub",0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0
+"Dry lab","High","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Dryad (repository)","Low","Start",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Dual-flashlight plot","Low","Stub",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Duncan Odom","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Dynamic energy budget theory","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Dynamic programming","Top","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+"Eadie–Hofstee diagram","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Earlham Institute","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"EB-eye","Low","Start",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ebbe Nielsen Prize","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"EBird","Low","Start",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EButterfly","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ECgene","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+"EcoCyc","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0
+"Ecosystem model","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"ECRbase","Low","Stub",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"EDAS","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EDRN","Low","Start",0,0,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Edward C. Holmes","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Edward H. Shortliffe","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Edward Marcotte","Low","Start",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Effective (database)","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"EggNOG (database)","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Ehud Shapiro","Low","Start",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Eleazar Eskin","Mid","Stub",1,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"ELIXIR","Mid","Start",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EM Data Bank","Mid","Start",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EMAGE","Mid","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"EMBnet","Low","Start",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"EMBOSS","Mid","Start",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EMBRACE","Low","Start",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Empire (program)","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"ENCODE","Mid","C",0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,0,0,0
+"Encyclopedia of Life","Mid","Start",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Energy charge","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Ensembl genome database project","High","B",0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1
+"Ensembl Genomes","Mid","C",0,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0
+"Entrez","Mid","B",1,0,1,0,0,0,0,1,1,1,1,1,0,1,0,0,1,0,0,0,1
+"Environmental DNA","Low","Start",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Enzyme Commission number","High","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"Epigenome-wide association study","Low","C",0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+"Epitranscriptome","Low","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Epitranscriptomic sequencing","Mid","C",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Eran Segal","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0
+"Erez Lieberman Aiden","Low","GA",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Eric Xing","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Ervin Bauer","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Estonian Genome Project","Mid","Start",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"ESyPred3D","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ETBLAST","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0
+"Eugene Koonin","Low","Start",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+"Eugene Myers","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0
+"Eukaryotic Linear Motif resource","Low","Start",1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Eurocarbdb","Low","Stub",1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Europe PubMed Central","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"European Bioinformatics Institute","Low","Stub",1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,0,0
+"European Conference on Computational Biology","Mid","Start",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"European Health Examination Survey","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"European Molecular Biology Laboratory","Low","C",1,0,0,0,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+"European Nucleotide Archive","Mid","GA",0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0
+"EVA (benchmark)","Low","Stub",1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Evolution@Home","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Evolutionary grade","High","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Evolver (software)","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+"Evolving digital ecological network","Low","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Ewan Birney","Low","Start",0,0,0,0,1,0,0,0,0,1,1,0,1,0,1,0,1,0,0,0,0
+"ExoCarta","Low","Stub",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+"Exome sequencing","High","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Exon-intron database","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Expasy","Mid","Start",1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"EzTaxon Database","Low","Start",0,0,1,0,1,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0,1
+"Families of Structurally Similar Proteins database","Low","Stub",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"FARME","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"Fast statistical alignment","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"FASTA","High","B",0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+"FASTA format","High","B",1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"FastContact","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FASTQ format","Mid","B",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Felsenstein's tree-pruning algorithm","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"FGED Society","Low","B",0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"FINDbase","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"Fiocruz Genome Comparison Project","Low","Start",1,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Fiona Brinkman","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+"Fish DNA barcoding","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"FishBase","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fitness function","Mid","Start",0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+"FitzHugh–Nagumo model","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"FloraBase","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Flow cytometry bioinformatics","Low","B",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"FlowJo","Low","Start",0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Flux balance analysis","High","B",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,0
+"Fluxomics","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"FlyBase","Mid","Start",0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"FlyFactorSurvey","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Folding@home","Mid","B",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FoldX","Low","Start",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Formatdb","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Fossilworks","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Foundational Model of Anatomy","Low","Start",0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Franco P. Preparata","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"François Fages","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"FreeSurfer","Mid","Start",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"FREP","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+"Friuli innovazione","Low","Start",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Full-parasites","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Functional element SNPs database","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+"Functional genomics","High","C",0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Fungal DNA barcoding","Low","C",0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Fusarium graminearum genome database","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"G protein-coupled receptors database","Low","Stub",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gajendra Pal Singh Raghava","Low","C",0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Galaxy (computational biology)","High","Start",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gap penalty","High","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+"Gary Stormo","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,0
+"Gaussian network model","Mid","C",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"GDB Human Genome Database","Low","Start",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"GEN2PHEN","Low","C",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"GenBank","High","Start",1,1,0,1,1,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0
+"GENCODE","Low","C",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+"Gene Designer","Low","B",0,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+"Gene expression profiling","High","B",0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,1,0,0,0
+"Gene family","High","C",0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1
+"Gene nomenclature","Mid","Start",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Gene ontology","High","C",1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Gene prediction","High","C",0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,1,0,0,1
+"Gene regulatory network","High","B",0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0
+"Gene set enrichment analysis","Mid","C",0,0,0,0,1,0,0,1,0,1,1,0,0,0,1,0,1,0,0,0,0
+"GeneCalling","Low","Start",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"GeneCards","Mid","C",0,1,1,0,1,0,0,1,0,0,1,1,0,0,1,0,1,1,1,0,0
+"GeneDB","Low","Stub",0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"GeneDx","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GeneMark","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"GeneNetwork","Low","B",0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1
+"GenePattern","Low","Start",0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"General Data Format for Biomedical Signals","Low","Start",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"General feature format","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Generalized tree alignment","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Generic Model Organism Database","High","Start",0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0
+"GeneRIF","High","Start",0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,0
+"GENESIS (software)","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Genetic codes (database)","Low","Stub",0,0,0,0,0,0,0,1,1,1,1,1,0,0,0,0,1,0,0,0,1
+"Genetic distance","Mid","B",0,0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+"Genetic fuzzy systems","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Genetic operator","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"Genetic programming","Mid","B",0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GenMAPP","Low","B",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GeNMR","Low","Start",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GenoCAD","Low","C",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Genomatix","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+"Genome","High","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Genome architecture mapping","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Genome browser","High","List",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+"Genome Compiler","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Genome size","Mid","B",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Genome survey sequence","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Genome-based peptide fingerprint scanning","Low","Start",0,0,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Genome-wide association study","High","GA",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+"Genome@home","Low","Start",0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0
+"Genomes OnLine Database","Mid","Start",0,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,1,0,0,0,1
+"Genomic organization","Low","Start",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,1,0,0,0,1
+"Genomic Standards Consortium","Mid","C",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Genomics","High","B",0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0
+"Genomics England","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Genostar","Low","Start",0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"GENSCAN","Mid","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"GENtle","Low","Stub",0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"George Church (geneticist)","Mid","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"George Karreman","Low","B",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"George Oster","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"GFP-cDNA","Low","Start",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gilean McVean","Low","Start",0,0,1,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+"GISSD","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+"GLIMMER","High","C",0,0,0,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1
+"Global Alliance for Genomics and Health","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Global Biodiversity Information Facility","Low","Start",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Global distance test","Low","Stub",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Global Infectious Disease Epidemiology Network","Low","Start",0,0,1,0,1,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,0
+"Global Public Health Intelligence Network","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Global Species Database","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Glycoinformatics","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"GlycomeDB","Low","Stub",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Glycomics","Low","Start",1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+"Glyquest","Low","Stub",0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Gonçalo Abecasis","Low","Start",0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+"GoPubMed","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GOR method","Mid","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"GROMACS","Low","Start",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Group size measures","Low","Start",0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Gypsy (database)","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"H-Invitational","Low","Stub",0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+"Haar-like feature","Low","C",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Halbert L. Dunn","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+"Haldane's dilemma","Low","B",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Half sphere exposure","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hanah Margalit","Mid","C",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0
+"Hanes–Woolf plot","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Haplotype estimation","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"HB plot","Low","Start",1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Heat map","High","Start",0,0,0,1,1,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+"Helen M. Berman","Low","C",1,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Heng Li","Low","Start",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"HH-suite","Low","C",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Hidden Markov model","Top","GA",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0
+"High-throughput screening","Low","B",0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+"Hilary Finucane","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0
+"Hindmarsh–Rose model","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Hiroaki Kitano","Mid","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Hirschberg's algorithm","Low","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"HIstome","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"HitPredict","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"HLA Informatics Group","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"HMMER","High","B",0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+"Holland's schema theorem","Low","Start",0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Hollywood (database)","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"HomoloGene","Low","Start",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Homology modeling","High","B",1,1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Horizontal correlation","Low","Stub",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+"HubMed","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"HUGO Gene Nomenclature Committee","Mid","Start",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+"Human Genome Organisation","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Human Protein Atlas","Low","Start",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Human Protein Reference Database","Low","Start",1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Human Proteinpedia","Low","Start",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Human Proteome Folding Project","Low","Start",1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Human-based evolutionary computation","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Human-transcriptome database for alternative splicing","Low","Stub",0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1
+"HumHot","Low","Stub",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+"Hybrid genome assembly","Mid","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Hydrophobic-polar protein folding model","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hymenoptera Genome Database","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Hypercycle (chemistry)","Low","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Hypercyclic morphogenesis","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"HYPHY (software)","Low","Start",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Hypothetical protein","Low","Start",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Ian Horrocks","Low","Start",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Identifiers.org","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"IEEE/ACM Transactions on Computational Biology and Bioinformatics","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Igor Goryanin","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,0,0
+"IGRhCellID","Low","Stub",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Illumina dye sequencing","Mid","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Illumina, Inc.","Low","C",0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+"Imaging informatics","Low","Start",1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Indel","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Indian Genetic Disease Database","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Inferring horizontal gene transfer","Low","B",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0
+"Information Hyperlinked over Proteins","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Inheritance (genetic algorithm)","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Inparanoid","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"INSACOG","High","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"InSatDb","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Instability index","Low","Stub",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Institute for Systems Biology","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Institute of Bioinformatics and Applied Biotechnology (IBAB)","Low","B",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Institute of Genomics and Integrative Biology","Low","C",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+"Institute of Mathematical Problems of Biology","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Integrated Biosphere Simulator","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Integrated Genome Browser","Mid","Start",0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1
+"Integrated Microbial Genomes System","Low","Start",0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0
+"Integrative bioinformatics","Low","Stub",0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Integrodifference equation","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Intelligent Systems for Molecular Biology","Low","GA",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"IntEnz","Low","Stub",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Interaction network","Mid","NA",0,1,0,1,0,1,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0
+"Interactome","Mid","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Interactomics","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Intercollegiate Biomathematics Alliance","Low","C",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Interferome","Low","C",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1
+"InterMine","Low","Start",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"International Conference on Applications and Theory of Petri Nets and Concurrency","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"International Conference on Bioinformatics","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"International Knockout Mouse Consortium","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+"International Mouse Phenotyping Consortium","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"International Nucleotide Sequence Database Collaboration","Mid","Stub",0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+"International Protein Index","Low","Stub",0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"International Society for Biocuration","Low","Stub",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"International Society for Computational Biology","High","B",0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"International Society for Computational Biology Student Council","Low","C",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"Interolog","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"InterPro","High","B",1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Intrinsically disordered proteins","Mid","C",1,0,0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,1,0,0,0
+"Intronerator","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+"Ion semiconductor sequencing","Low","C",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Iran Bioinformatics Center","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ISCB Africa ASBCB Conference on Bioinformatics","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ISCB Fellow","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ISCB Innovator Award","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ISCB Senior Scientist Award","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Isfinder","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+"Islander (database)","Low","Stub",0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,1
+"IsoBase","Low","Stub",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"ITools Resourceome","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"IUPHAR Database","Low","Stub",1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Jacob Glanville","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+"JAligner","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Jalview","Low","Start",1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"James D. Murray","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Janet Kelso","Low","Start",0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+"Janet Thornton","Low","C",1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Japanese Society for Bioinformatics","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jay Shendure","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Jeffrey Skolnick","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jerzy Jurka","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Jill P. Mesirov","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Jim Kent","Low","Start",0,1,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+"Jmol","Mid","Start",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Joan Bailey-Wilson","Low","C",0,1,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"John B. Hogenesch","Low","C",0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,0,0,0
+"John Maynard Smith","Mid","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"John Quackenbush","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Jonathan Eisen","Low","Start",0,0,1,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0
+"Jonathan Wren","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Joseph DeRisi","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Joseph Henry Woodger","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Journal of Computational Biology","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Journal of Theoretical Biology","Mid","Stub",1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Jpred","Low","Start",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Judith Blake (scientist)","Mid","Start",0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0
+"Jukka-Pekka Onnela","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+"Julian Gough (scientist)","Low","Start",0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0
+"Julio Collado-Vides","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Junhyong Kim","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"K-mer","Mid","B",0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,0,0,0,0,0,1
+"Kabsch algorithm","Mid","Start",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"KaPPA-View4","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+"Kat Holt","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0
+"KEGG","High","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Keith A. Crandall","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"Kenneth H. Wolfe","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+"Khimera","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Ki Database","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Kim D. Pruitt","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Kim-Anh Do","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"Kinetic logic","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Kira Makarova","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"KiSAO","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"KNIME","Low","Start",0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+"Knowledge engineering","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Korean Bioinformation Center","Low","Start",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"KUPS (database)","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"L1Base","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"LabKey Server","Low","Start",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LacED","Low","Stub",0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+"Laminin database","Low","Stub",0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0
+"LarvalBase","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Last universal common ancestor","Mid","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Lattice model (biophysics)","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lattice protein","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Laurence Hurst","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0
+"Lawrence Hunter","Mid","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+"Laxmi Parida","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+"Lead Finder","Low","B",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Legume Information System","Low","Start",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Leiden Open Variation Database","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Leroy Hood","Low","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"LIGPLOT","Low","Stub",1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Lincoln Stein","Low","Start",0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Lineweaver–Burk plot","Low","B",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Lior Pachter","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"Lipidomics","Low","C",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of algorithms","Mid","List",1,0,1,1,1,0,0,1,0,1,1,1,0,0,1,1,0,1,0,1,0
+"List of alignment visualization software","Mid","List",0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"List of awards in bioinformatics and computational biology","Low","List",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of biodiversity databases","Low","List",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"List of bioinformatics companies","Mid","List",0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+"List of bioinformatics institutions","Mid","List",0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+"List of bioinformatics journals","Mid","List",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of biological databases","High","List",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of biological wikis","Mid","List",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of databases for oncogenomic research","Low","List",0,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1
+"List of disorder prediction software","Low","List",1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+"List of fellows of the International Society for Computational Biology","Low","List",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of gene prediction software","Mid","List",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"List of genetic algorithm applications","Low","List",1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,1,0,1,0
+"List of human protein-coding genes 1","High","List",0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,1,0,0
+"List of human protein-coding genes 2","High","List",0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,1,0,0
+"List of human protein-coding genes 3","High","List",0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,1,0,0
+"List of human protein-coding genes 4","High","List",0,1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,1,0,0
+"List of Intelligent Systems for Molecular Biology keynote speakers","Low","List",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of mass spectrometry software","Low","List",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of members of the National Academy of Sciences (Biophysics and computational biology)","Low","List",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of MeSH codes","Mid","List",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"List of molecular graphics systems","Mid","List",1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of neuroscience databases","Low","List",0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+"List of omics topics in biology","Low","List",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of open-source bioinformatics software","High","List",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of phylogenetic tree visualization software","Mid","List",0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"List of phylogenetics software","High","List",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,1
+"List of protein structure prediction software","Mid","List",1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of protein tandem repeat annotation software","Mid","Start",1,0,1,0,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1
+"List of protein-ligand docking software","Mid","List",1,0,1,1,1,0,1,1,0,0,0,0,0,0,1,0,1,0,0,0,0
+"List of RNA structure prediction software","Low","List",1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"List of RNA-Seq bioinformatics tools","Mid","List",0,0,1,1,1,0,0,1,0,0,1,1,0,0,1,0,1,0,0,0,0
+"List of sequence alignment software","High","List",0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1
+"List of sequenced animal genomes","Mid","List",0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"List of sequenced archaeal genomes","Low","List",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"List of sequenced bacterial genomes","Mid","List",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,1
+"List of sequenced eukaryotic genomes","Mid","List",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"List of software for Monte Carlo molecular modeling","Mid","List",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of software for protein model error verification","Low","List",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"List of software to detect low complexity regions in proteins","Low","Start",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"List of systems biology conferences","Low","List",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"List of systems biology visualization software","Low","List",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"List of Y-DNA single-nucleotide polymorphisms","Low","List",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Little b (programming language)","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LiveBench","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LncRNAdb","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+"LocDB","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Locus Reference Genomic","Low","Start",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+"Long branch attraction","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"Loop modeling","Mid","Start",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Louis and Beatrice Laufer Center for Physical and Quantitative Biology","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Low complexity regions in proteins","Mid","Start",1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+"LSID","Low","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Luay Nakhleh","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Ludmil Alexandrov","Low","Start",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Ludwig von Bertalanffy","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Lumi (software)","Low","Start",0,1,0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+"Luxembourg Centre for Systems Biomedicine","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MA plot","Low","Start",0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+"Machine learning in bioinformatics","Mid","C",0,0,0,0,0,1,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1
+"Macromolecular docking","Mid","B",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MacVector","Mid","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MAFFT","Mid","Stub",0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"Malaria Control Project","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+"MaMF","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+"Mammalian promoter database","Low","Stub",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+"MANET database","Low","Stub",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+"Manolis Kellis","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Mapper(2)","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+"Maqsudul Alam","Low","Stub",0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Marco Ramoni","Low","Start",0,0,0,0,0,1,1,0,1,0,1,0,0,0,1,1,0,0,0,1,0
+"Margaret Oakley Dayhoff","High","B",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Marie Davidian","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+"Marie-France Sagot","Mid","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Mark A. O'Neill","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Mark B. Gerstein","Low","C",0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0
+"Mark Borodovsky","Mid","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,0,0
+"Martin Gruebele","Low","C",1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Martin Vingron","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+"MARTINI","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Masaru Tomita","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Mascot (software)","High","C",0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"Mass spectrometry data format","Low","Start",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mathematical and theoretical biology","Top","C",1,0,1,0,1,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0
+"Mathematical modeling of electrophysiological activity in epilepsy","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Mathematical modelling of infectious disease","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Mathematical physiology","Mid","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Mathieu Blanchette (computational biologist)","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+"MatrixDB","Low","Start",0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0
+"Matthews correlation coefficient","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"MAVID","Low","Stub",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Max Planck Institute for Molecular Genetics","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Maximum clade credibility tree","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Maximum parsimony (phylogenetics)","High","C",0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"McDonald–Kreitman test","Mid","C",0,0,1,0,1,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,1
+"Medical Subject Headings","Mid","C",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"MEGAN","High","Start",0,0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1
+"MEGARes","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Mei-Ling Ting Lee","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+"Melbourne Bioinformatics","Low","Start",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MEME suite","Low","Start",0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+"MEROPS","High","C",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"MESAdb","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+"Metabarcoding","Low","C",0,0,0,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+"Metabolic control analysis","Mid","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+"Metabolic flux analysis","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0
+"Metabolic network modelling","Mid","C",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0
+"Metabolome","High","C",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Metabolomics","Mid","C",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MetaCyc","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Metagenomics","Mid","GA",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Metallome","Low","Stub",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Metascape","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MethDB","Low","Stub",0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+"MICdb","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+"Michael Ashburner","Low","Start",0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+"Michael Eisen","Low","Start",0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0
+"Michael Gribskov","Mid","Start",1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+"Michael Langston","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+"Michael Levitt","Low","C",1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Michael Sternberg","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+"Michael Stumpf","Low","Stub",0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0
+"Michael Waterman","Low","Start",0,0,1,0,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+"Michaelis–Menten kinetics","Top","B",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Michaelis–Menten–Monod kinetics","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Michal Linial","Low","Start",0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Microarray","Top","Start",0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+"Microarray analysis techniques","Mid","B",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+"Microarray databases","Mid","List",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+"MicrobesOnline","Low","C",0,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0
+"Microbial DNA barcoding","Low","Start",0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+"Microbial phylogenetics","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"MicroRNA and microRNA target database","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"MicroRNA sequencing","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+"Mihajlo D. Mesarovic","Mid","Start",1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Mike Steel (mathematician)","Mid","Start",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"MimoDB","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MINAS","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Minimotif Miner","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0
+"Minimum evolution","High","C",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+"Minimum information about a microarray experiment","Mid","Start",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Minimum information about a simulation experiment","Low","Start",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Minimum information required in the annotation of models","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Minimum information standard","Mid","Start",0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0
+"Minoru Kanehisa","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"MIPModDB","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MiRBase","Mid","Stub",0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+"MiRGator","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"MIRIAM Registry","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MiRNEST","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+"MiRTarBase","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+"MochiView","Low","Stub",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"ModBase","Low","Stub",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MODELLER","Mid","Start",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Modelling biological systems","High","C",1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0
+"Models of DNA evolution","Mid","B",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Molecular clock","High","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Molecular Evolutionary Genetics Analysis","Low","Start",0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Molecular Modeling Database","Low","Stub",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Molecular models of DNA","Mid","B",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Molecular phylogenetics","High","C",0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1
+"Molecular Systems Biology","Mid","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Mona Singh (scientist)","Mid","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+"Monod equation","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+"Monod-Wyman-Changeux model","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Morphobank","Low","B",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Morris–Lecar model","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Most recent common ancestor","High","B",0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+"Motoo Kimura","High","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Mouse gene expression database","Low","Stub",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Mouse Genome Database","Mid","NA",0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,0
+"Mouse Genome Informatics","Low","Stub",0,1,0,1,0,0,0,1,0,1,1,0,0,0,0,1,0,0,1,1,1
+"MUBII-TB-DB","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Multi-Omics Profiling Expression Database","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Multi-state modeling of biomolecules","Mid","B",0,0,1,0,1,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0
+"Multiomics","High","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Multiple EM for Motif Elicitation","High","Start",0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,0,0,0
+"Multiple sequence alignment","High","GA",0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,1,0,0,1
+"Multiscale Electrophysiology Format","Low","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"MUMmer","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Munich Information Center for Protein Sequences","Mid","Start",0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MUSCLE (alignment software)","Mid","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Mutation (genetic algorithm)","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"MvirDB","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"MyExperiment","Low","Start",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MyGrid","Low","Start",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"N50, L50, and related statistics","Low","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0
+"Nanopore sequencing","Low","C",0,0,1,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+"NanoString Technologies","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+"NAPP (database)","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Narayanaswamy Srinivasan","Low","C",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Narrow escape problem","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"National Center for Biomedical Ontology","Mid","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"National Center for Biotechnology Information","Low","Start",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"National Center for Genome Resources","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"National Center for Integrative Biomedical Informatics","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"National Centers for Biomedical Computing","Low","Start",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"National DNA database","Low","Start",0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"National Institute for Mathematical and Biological Synthesis","Low","Start",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"National Institute of Biomedical Genomics","Mid","Stub",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"National Institute of Genetics","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NCBI Epigenomics","Low","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"NCI-Nature Pathway Interaction Database","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Needleman–Wunsch algorithm","Mid","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Neighbor joining","High","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Neighbour-sensing model","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+"Netherlands Bioinformatics Centre","Low","Start",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Netherlands Bioinformatics for Proteomics Platform","Low","Stub",0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Netpath","Low","Stub",0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0
+"Network motif","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Network of Cancer Genes","Low","Stub",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Newbler","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Next-generation matrix","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Nextbio","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"NeXtProt","Low","Stub",0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+"Nexus file","Low","Start",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"NGSmethDB","Low","Stub",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Nicolas Rashevsky","Mid","B",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Nir Friedman","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+"NK model","Low","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Non-B database","Low","Stub",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Non-coding DNA","Low","C",0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0
+"NONCODE","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+"NucleaRDB","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Nucleic acid design","Mid","C",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Nucleic acid structure prediction","Mid","C",1,0,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,1,0,0,0
+"Nucleosome positioning region database","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"NUPACK","Low","B",1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+"Nurcan Tunçbağ","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"Nussinov algorithm","Low","Start",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"OBO Foundry","Mid","B",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Olga Troyanskaya","Low","Stub",1,0,0,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1,0,0,0
+"OLIGO Primer Analysis Software","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Omics","Mid","C",0,0,0,0,0,0,1,0,1,0,1,1,0,1,0,0,1,0,0,0,0
+"OMPdb","Low","Stub",1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0
+"Online Mendelian Inheritance in Animals","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Online Mendelian Inheritance in Man","Mid","Start",0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,1
+"Ontario Institute for Cancer Research","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Ontology (information science)","High","C",0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0
+"Ontology Definition MetaModel","Low","Stub",0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ontology for Biomedical Investigations","Low","B",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Open Bioinformatics Foundation","Mid","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Open Biomedical Ontologies","High","Start",0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Open protein structure annotation network","Low","Stub",1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+"Open Regulatory Annotation Database","Low","C",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Open Tree of Life","Low","Start",0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"OpenAPS","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"OpenMS","Low","C",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Operon database","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Orac (MD program)","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"OriDB","Low","Stub",0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Orientations of Proteins in Membranes database","Low","B",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Orphanet","Low","Stub",0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0
+"OrthoDB","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Orthologous MAtrix","Low","Stub",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Osnat Penn","Low","Stub",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Outgroup (cladistics)","Mid","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"Overton Prize","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Owen White","Low","Start",0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+"Oxford Nanopore Technologies","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"P2CS","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Pacific Symposium on Biocomputing","Low","Start",1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+"Pairwise Algorithm","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+"Paleoproteomics","Low","C",0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Pamela Silver","Low","C",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0
+"Pan-genome","Mid","C",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"PANDIT (database)","Low","Stub",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"PANTHER","Low","C",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"Paradox of enrichment","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Paradox of the plankton","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"ParameciumDB","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ParaSurf","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Pardis Sabeti","Low","B",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Partner Institute for Computational Biology","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Pathema","Low","Start",0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,0
+"PathoPhenoDB","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0
+"Pathway commons","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"Pathway Genomics","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"Patome","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PATRIC","Low","Start",1,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,0
+"Patricia Babbitt","Mid","Start",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0
+"Patricia Grambsch","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Patrocladogram","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Paul Emsley (crystallographer)","Low","Start",1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Paulien Hogeweg","Low","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"PAUP*","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Pavel A. Pevzner","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PCRPi-DB","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PDBbind database","Low","Start",1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PDBREPORT","Low","Stub",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"PDBsum","Mid","Start",1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"PDBWiki","Low","Start",1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Peak calling","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+"PEAKS","Low","Start",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+"Pedro Pedrosa Mendes","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Peer Bork","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Peptide-mass fingerprint","Mid","Start",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Perfect phylogeny","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"PeroxiBase","Low","Start",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Peroxiredoxin classification index","Low","Stub",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Perturbation (biology)","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Peter Donnelly","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Peter Keightley","Low","Start",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Peter Schuster","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Petri net","Low","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Pfam","High","B",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Pharmaceutical bioinformatics","Mid","Start",1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0
+"Phenome","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"PhenomicDB","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Phenoscape","Low","Stub",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"PhEVER","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"PHI-base","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Philip Bourne","Mid","Start",0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+"Philippine Genome Center","Low","Start",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Phosida","Low","Start",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Phospho.ELM","Low","Stub",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Phospho3D","Low","Stub",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0
+"Phrap","Mid","Start",0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"Phred base calling","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Phred quality score","Mid","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"PHYLIP","Low","Start",1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Phylogenetic bracketing","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Phylogenetic comparative methods","Mid","C",0,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Phylogenetic footprinting","Mid","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Phylogenetic inference using transcriptomic data","Low","Start",0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,1,0,0,0,0
+"Phylogenetic profiling","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+"Phylogenetic tree","Top","B",0,1,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+"Phylogenetics","Top","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"PhylomeDB","Low","Start",0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Phyloscan","Low","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"PhyloXML","Low","Start",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Phyre","Low","B",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Pierre Baldi","Low","Stub",0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+"Pileup format","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Planted motif search","Low","C",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"PlasmoDB","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"PLINK (genetic tool-set)","Low","Stub",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"PLOS Computational Biology","High","Start",0,1,1,0,0,1,0,1,0,1,0,0,1,1,1,1,1,1,0,0,1
+"PmiRKB","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Point accepted mutation","High","B",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Polbase","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Polygenic score","Mid","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"PolymiRTS","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+"Polymorphic simple sequence repeats database","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"PolyQ (database)","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Polytomy","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"PomBase","Low","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Popgenie","Low","Stub",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Population structure (genetics)","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Population viability analysis","Mid","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"Position weight matrix","Top","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"PrecisionFDA","Low","Start",0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"PRIAM enzyme-specific profiles","Low","Stub",0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,1,0,0,0
+"PRINTS","Low","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Probabilistic context-free grammar","High","B",1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"ProbCons","Low","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"ProGlycProt","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+"ProRepeat","Low","Stub",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0
+"ProSAS","Low","Stub",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"PROSITE","High","Start",1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"ProtCID","Low","Stub",1,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Protein Analysis Subcellular Localization Prediction","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Protein circular dichroism data bank","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Protein contact map","Mid","Start",1,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Protein Data Bank","High","C",1,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Protein Data Bank (file format)","Mid","C",1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Protein design","Mid","C",1,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,1,0
+"Protein family","High","Start",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+"Protein fragment library","Mid","B",1,0,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Protein function prediction","High","Start",1,0,0,0,0,1,1,0,1,1,1,0,0,0,1,0,1,1,0,0,0
+"Protein Information Resource","Low","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Protein pKa calculations","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Protein Segment Finder","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Protein structure database","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Protein structure prediction","High","C",1,0,0,0,1,0,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0
+"Protein subcellular localization prediction","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Protein superfamily","High","B",0,1,0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,0
+"Protein tandem repeats","Mid","Start",0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+"Protein-RNA interface database","Low","Stub",1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+"Protein–protein interaction","High","C",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+"Protein–protein interaction prediction","High","C",1,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Proteins@home","Low","Stub",1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Proteome","High","C",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Proteomics","High","C",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Proteomics Identifications Database","High","Start",0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Proteomics Standards Initiative","Mid","Start",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Proteopedia","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ProteoWizard","Low","Start",0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pseudogene (database)","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pseudomonas genome database","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PSI Protein Classifier","Low","Stub",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"PSIPRED","High","Start",1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"PSORT","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"PSORTdb","Mid","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"PubChem","Mid","Start",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PubGene","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Pubget","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"PubMed Central","Mid","B",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PubMed Central Canada","Mid","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pulse vaccination strategy","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"PupaSuite","Low","Stub",0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1
+"Putative gene","Mid","Start",0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,0,0
+"PyClone","Low","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,1
+"PyMOL","Low","Start",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Pyotr Anokhin","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"QFAB Bioinformatics","Low","Start",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Quantum Aspects of Life","Low","Stub",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Quartet distance","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+"RA plot","Low","Start",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Rafael Irizarry (scientist)","Mid","Start",0,0,1,1,1,1,0,1,0,0,1,1,0,0,1,0,1,1,0,0,0
+"Ram Samudrala","Mid","Start",0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0
+"Randall Beer","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"Random coil index","Mid","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Randy Read","Low","Start",1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RAPTOR (software)","Mid","C",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"RasMol","Mid","Start",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Rat Genome Database","Low","C",0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+"Ravi Iyengar","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"Raymond E. Goldstein","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"RDock","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Reactome","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Read (biology)","High","Stub",0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+"REBASE (database)","Mid","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Receiver operating characteristic","Mid","B",0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Recode (database)","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"RECOrd (Local Biological Records Centre)","Low","Start",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"REDfly","Low","Stub",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"RedToL","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Reference genome","Low","Start",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+"RefSeq","Mid","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Register of Antarctic Marine Species","Mid","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"RegPhos","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"RegTransBase","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"Regulome","Low","Start",0,1,0,0,1,1,0,0,1,1,0,1,0,0,1,1,1,1,0,1,0
+"RegulonDB","Low","Start",0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0
+"REPAIRtoire","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"Representative sequences","Low","Stub",0,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+"RepTar (database)","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Research in Computational Molecular Biology","Mid","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ResFinder","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0
+"RetrOryza","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0
+"Rfam","High","B",1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0
+"Richard Bonneau","Low","Start",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0
+"Richard M. Durbin","Low","C",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+"Riken integrated database of mammals","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"RIKEN Quantitative Biology Center","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+"Rita Casadio","Mid","Stub",1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"RNA CoSSMos","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"RNA helicase database","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"RNA integrity number","Low","Stub",0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+"RNA modification database","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"RNA-binding protein database","Low","C",1,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"RNA-Seq","Top","B",0,0,0,1,1,0,0,0,0,1,1,1,0,0,1,0,1,1,0,0,1
+"RNA22","Low","Start",0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+"Rob Knight (biologist)","Low","Stub",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Robert F. Murphy (computational biologist)","Low","Start",0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Robert Gentleman (statistician)","Mid","Start",0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0
+"Robert Rosen (theoretical biologist)","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Robinson–Foulds metric","Low","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"Roderic D. M. Page","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Rolf Apweiler","Low","Start",1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Ron Appel","Low","Start",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Root-mean-square deviation of atomic positions","Mid","Start",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Rosetta@home","Mid","C",1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Ruedi Aebersold","Low","Start",0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+"Rule-based modeling","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Russ Altman","Mid","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ruth Dayhoff","Low","Start",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ruth Nussinov","Mid","Start",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ruzzo–Tompa algorithm","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Saccharomyces Genome Database","High","Start",0,1,0,0,1,0,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0
+"SAM (file format)","Mid","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+"SAMPL Challenge","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0
+"Sample and Data Relationship Format","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"SAMtools","Low","Start",0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,1
+"Sanger sequencing","Mid","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Sarah Teichmann","Low","C",1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0
+"Saraswathi Vishveshwara","Low","Start",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"SBML","High","B",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+"ScerTF","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"SCHEMA (bioinformatics)","Low","Stub",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Schrödinger, Inc.","Low","Start",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Science for Life Laboratory","Low","Stub",0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Scoring functions for docking","Mid","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"SCRIPDB","Low","Stub",1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SeaLifeBase","Low","Start",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Sean Eddy","Low","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Searching the conformational space for docking","Mid","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"SED-ML","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Self-consistent mean field (biology)","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Sepp Hochreiter","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"SeqCorator","Low","Start",0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Sequence alignment","High","C",1,0,0,1,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1
+"Sequence analysis","Top","C",1,0,0,1,0,0,1,0,1,1,1,1,0,0,1,1,1,1,0,0,1
+"Sequence assembly","High","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Sequence clustering","Mid","Start",0,0,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Sequence database","Mid","Start",0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Sequence logo","Mid","B",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Sequence motif","High","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Sequence Ontology","Mid","Stub",0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"Sequence profiling tool","Mid","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+"Sequence Read Archive","High","Start",0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"Sequenom","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"Sequential structure alignment program","Low","Stub",1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Sequerome","Low","Start",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"SEQUEST","Mid","Start",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Serafim Batzoglou","Mid","Stub",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"Shahid Hussain Bokhari","Low","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Shapiro–Senapathy algorithm","Low","C",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+"Short linear motif","Mid","B",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Short Oligonucleotide Analysis Package","Mid","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Shoshana Wodak","Mid","Stub",1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Significance analysis of microarrays","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Sim4","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Simbiosys","Low","Start",1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+"Similarity measure","Mid","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+"Simple Modular Architecture Research Tool","Mid","Stub",1,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Simulated growth of plants","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Single cell epigenomics","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0
+"Single cell sequencing","High","C",0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0
+"Single-cell transcriptomics","Mid","C",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0
+"SitEx","Low","Stub",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"SMART (database)","Low","Stub",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Smith–Waterman algorithm","Top","B",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+"SnoRNA prediction software","Low","Start",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0
+"SNP array","High","Start",0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,1,0,1,1
+"SNPedia","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+"SnpEff","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+"Snptstr (database)","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+"SNV calling from NGS data","Low","B",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+"Society for Mathematical Biology","High","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Software for protein structure visualization","Low","NA",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Solid phase sequencing","Mid","Stub",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Solvation shell","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Soren Brunak","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0
+"Søren Brunak","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+"SOSUI","Low","Start",1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"South African National Bioinformatics Institute","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SPAdes (software)","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Spike (database)","Low","Stub",0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,0,0,1
+"SpliceInfo","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Split (phylogenetics)","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"SplitsTree","Low","Stub",0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Spurious relationship","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"Staden Package","Mid","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Standard flowgram format","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"StarBase (biological database)","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Statistical Applications in Genetics and Molecular Biology","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+"Stem cell genomics","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0
+"Stem cell lineage database","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Stemloc","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Stephen Altschul","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+"Stephen Muggleton","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Stephen Oliver (scientist)","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+"Steven E. Brenner","Low","Start",1,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0
+"Steven Salzberg","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0
+"Stockholm format","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"STR analysis","Low","Stub",0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+"Strbase","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"STRING","Low","B",0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Structural alignment software","High","List",1,0,1,1,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+"Structural bioinformatics","High","B",1,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1,0,1,0,0,0
+"Structural Classification of Proteins database","High","Start",1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+"Structural genomics","High","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Structure atlas of human genome","Low","Stub",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Substitution matrix","High","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Substitution model","Mid","B",0,0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,1,0,0,0,1
+"Sulston score","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1
+"Superfamily database","Mid","Start",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Superspreading event","High","C",0,0,0,0,0,1,0,1,1,0,0,0,0,1,0,0,0,1,0,1,1
+"SuperSweet","Low","Stub",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Swiss Institute of Bioinformatics","Low","Start",1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Swiss-model","Mid","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Syed I. Ahson","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Synteny","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Synthetic biological circuit","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"Synthetic biology","Mid","B",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Synthetic gene database","Low","Stub",0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+"Synthetic virology","Mid","Start",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+"Systems biology","Top","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+"Systems Biology Graphical Notation","Mid","Start",0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+"Systems Biology Ireland","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,1,0
+"Systems Biology Ontology","Mid","Start",0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+"Systems biomedicine","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0
+"Systems immunology","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Systems neuroscience","Mid","Stub",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0
+"Systems theory","Mid","C",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"T-Coffee","Mid","Start",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"T-REX (webserver)","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Tabix","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Taekjip Ha","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Tandem Repeats Database","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"Tandy Warnow","Mid","B",0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"TAPAs model checker","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"TargetScan","Low","Start",0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0
+"TassDB","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+"TaveRNA","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Taxonomic database","Mid","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"TcoF-DB","Low","Stub",0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0
+"Template modeling score","Low","Start",1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Temple F. Smith","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Terminology for the Description of Dynamics","Low","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Terri Attwood","Mid","C",1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+"Terry Gaasterland","Mid","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Terry Speed","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0
+"The Arabidopsis Information Resource","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"The Genomic HyperBrowser","Low","Start",0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0
+"The Institute for Genomic Research","Low","Start",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"The OpenMS Proteomics Pipeline","Low","Start",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"The Proteolysis Map","Low","Start",1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+"Theoretical ecology","High","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Thomas Lengauer","Mid","Start",1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0
+"Threading (protein sequence)","High","C",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Three-taxon analysis","Low","Stub",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"ThYme (database)","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"TIARA (database)","Low","Stub",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+"TIGR plant repeat database","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"TIGR plant transcript assembly database","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"TIGRFAMs","Low","Stub",0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+"Tim Hubbard","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tim Mitchison","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Tip dating","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"TMPad","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Tom Blundell","Low","C",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+"TopHat (bioinformatics)","Low","Stub",0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0
+"Topologically associating domain","Low","C",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+"Toroid repeat proteins","Low","Start",1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Tournament selection","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Toxin-antitoxin database","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Trajectory inference","Low","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0
+"Trans-Proteomic Pipeline","Low","Start",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Transcriptome","High","B",0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1
+"Transcriptomics technologies","High","GA",0,0,1,1,1,0,0,0,1,1,1,1,0,0,1,1,1,1,0,0,1
+"TRANSFAC","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0
+"Transient receptor potential channel-interacting protein database","Low","Stub",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Translatome","Low","Stub",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Transpogene","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Transporter Classification Database","Low","List",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Transterm","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+"TREC Genomics","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+"Tree alignment","Mid","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"Tree of Life Web Project","Low","Start",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Tree rearrangement","Low","Start",0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Tree-Puzzle","Low","Stub",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"TreeFam","Low","Start",1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+"Treefinder","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Trey Ideker","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0
+"TRNADB","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Truncation selection","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"U12 intron database","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Ubuntu-Med","Low","Stub",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"UCbase","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"UCPH Bioinformatics Centre","Low","Start",1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0
+"UCSC Genome Browser","High","Start",0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+"UCSF Chimera","Low","Start",1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"UGENE","Low","C",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"UgMicroSatdb","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"UK Biobank","Low","B",0,0,0,0,1,1,0,1,0,1,1,0,0,0,1,1,0,0,0,1,1
+"Ukkonen's algorithm","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Umbrella sampling","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"UniFrac","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+"UniGene","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"UniPROBE","Low","Stub",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+"UniProt","High","B",1,1,0,0,1,0,1,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+"Unique molecular identifier","Low","Stub",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Univec","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"UPGMA","Low","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Uppaal Model Checker","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Uri Alon","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0
+"UTOPIA (bioinformatics tools)","Low","Start",0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"UTRdb","Low","Stub",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"UTRome","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Variable-order Bayesian network","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+"Variant Call Format","Mid","Start",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+"Variations and drugs database","Low","Stub",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+"VectorBase","Mid","Start",1,1,1,0,1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+"VectorDB","Low","Stub",0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0
+"Velvet assembler","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Vertebrate and Genome Annotation Project","Low","Start",0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+"VFDB","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Viability theory","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+"Vienna Series in Theoretical Biology","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"ViennaRNA Package","Low","C",1,0,0,0,1,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,0
+"Viktorya Aviyente","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Viral phylodynamics","Low","B",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0
+"ViralZone","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"VIRsiRNAdb","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"Virtual Cell","Low","B",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Virtual karyotype","Low","C",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Virtual Physiological Human","Mid","C",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Virtual screening","High","Start",0,0,1,0,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0
+"VISTA (comparative genomics)","Low","Start",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+"Visual Molecular Dynamics","Low","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Vito Volterra","Low","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Volcano plot (statistics)","Mid","C",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Voltage-gated potassium channel database","Low","Stub",0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+"Wagner's gene network model","Low","C",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+"WAIFW matrix","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+"Walter Goad","Low","Start",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+"Warren Gish","Low","Start",0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Warren Lyford DeLano","Low","Start",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WAVe","Low","Stub",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1
+"Weasel program","Low","B",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Web-based taxonomy","Low","Stub",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Webb Miller","Low","Start",0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,0
+"WebGeSTer","Low","Stub",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"Webtag","Low","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Weighted correlation network analysis","Low","B",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0
+"Wellcome Genome Campus","Low","Start",0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+"Wellcome Sanger Institute","Low","C",0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Wen-Hsiung Li","Low","C",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"WeNMR","Low","Start",1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WHAT IF software","Low","Start",1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"What Is Life?","Low","C",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Whole genome sequencing","High","B",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+"WikiPathways","Low","Start",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"Wikispecies","Mid","Start",0,0,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+"Wilfrid Rall","Mid","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"William Pearson (scientist)","Mid","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"World Community Grid","Low","C",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Worldwide Protein Data Bank","Mid","Start",0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"WormBase","Mid","Start",0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+"WPGMA","Low","C",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+"X-PLOR","Mid","Stub",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Xenbase","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Xiaole Shirley Liu","Mid","Stub",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+"Xrate","Low","Start",0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+"YASARA","Low","Stub",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Yass (software)","Low","Stub",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Yeast promoter atlas","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+"Yeastract","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"YeTFaSCo","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+"Ying Xu","Low","Stub",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0
+"Your Favorite Gene","Low","Start",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+"Yves Moreau","Mid","Stub",1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Z curve","Low","Start",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+"ZebraBox","Low","Start",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+"Zebrafish Information Network","Mid","Start",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Zhiping Weng","Mid","Start",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"Ziv Bar-Joseph","Low","Start",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+"ZooBank","Low","Start",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
